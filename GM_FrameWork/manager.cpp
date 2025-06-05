@@ -82,17 +82,6 @@ void Manager::Draw()
 {
 	Renderer::Begin();
 
-	//// ‚±‚±‚©‚ç3D
-	//g_Camera->Draw();
-
-	//g_Field->Draw();
-
-	//g_Player->Draw();
-
-
-	//// ‚±‚±‚©‚ç2D
-	//g_Polygon->Draw();
-
 	/// ƒJƒƒ‰‚ðÅ‰‚É•`‰æ‚·‚é‚±‚ÆB
 	for (auto gameObject : m_GameObjects) {
 		gameObject->Draw();
