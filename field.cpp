@@ -4,6 +4,8 @@ void Field::Init()
 {
     VERTEX_3D vertex[4];
 
+
+
     vertex[0].Position = XMFLOAT3(-10.0f, 0.0f, 10.0f);
     vertex[0].Normal = XMFLOAT3(0.0f, 1.0f, 0.0f);
     vertex[0].Diffuse = XMFLOAT4(1.0f, 1.0f, 1.0f, 1.0f);
