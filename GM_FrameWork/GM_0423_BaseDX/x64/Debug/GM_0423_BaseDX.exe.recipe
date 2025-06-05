@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\ths30805\Documents\GitHub\GM_FrameWork\x64\Debug\GM_0423_BaseDX.exe</FullPath>
+      <FullPath>C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\x64\Debug\GM_0423_BaseDX.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>C:\Users\ths30805\Documents\GitHub\GM_FrameWork\shader\unlitTexturePS.cso</FullPath>
+      <FullPath>C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\shader\unlitTexturePS.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>C:\Users\ths30805\Documents\GitHub\GM_FrameWork\shader\unlitTextureVS.cso</FullPath>
+      <FullPath>C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\shader\unlitTextureVS.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />
