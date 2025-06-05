@@ -1,1 +1,101 @@
+<<<<<<< HEAD
 ﻿  GM_0423_BaseDX.vcxproj -> C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\x64\Debug\GM_0423_BaseDX.exe
+=======
+﻿  compilation object save succeeded; see C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\shader\unlitTexturePS.cso
+  compilation object save succeeded; see C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\shader\unlitTextureVS.cso
+  bullet.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'bullet.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'bullet.cpp' をコンパイルしています)
+  
+  camera.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'camera.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'camera.cpp' をコンパイルしています)
+  
+  enemy.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'enemy.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'enemy.cpp' をコンパイルしています)
+  
+  field.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'field.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'field.cpp' をコンパイルしています)
+  
+  gameObject.cpp
+  input.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'input.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'input.cpp' をコンパイルしています)
+  
+  keyboard.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\debugPrintf.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'keyboard.cpp' をコンパイルしています)
+  
+  main.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  manager.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'manager.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'manager.cpp' をコンパイルしています)
+  
+  modelRenderer.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'modelRenderer.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'modelRenderer.cpp' をコンパイルしています)
+  
+  player.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'player.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'player.cpp' をコンパイルしています)
+  
+  Polygon.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'Polygon.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'Polygon.cpp' をコンパイルしています)
+  
+  renderer.cpp
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(120,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'renderer.cpp' をコンパイルしています)
+  
+C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\vector3.h(142,13): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'renderer.cpp' をコンパイルしています)
+  
+  vector3.cpp
+  コードを生成中...
+DirectXTex_Debug.lib(DirectXTexImage.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexImage.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexWIC.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexWIC.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexD3D11.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexD3D11.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexUtil.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexUtil.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexConvert.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexConvert.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexCompress.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexCompress.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(DirectXTexMipMaps.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(DirectXTexMipMaps.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC4BC5.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC4BC5.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+DirectXTex_Debug.lib(BC6HBC7.obj) : warning LNK4099: PDB '' が 'DirectXTex_Debug.lib(BC6HBC7.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  GM_0423_BaseDX.vcxproj -> C:\Users\ths30805\Documents\GitHub\GM_FrameWork\GM_FrameWork\x64\Debug\GM_0423_BaseDX.exe
+>>>>>>> f47b6b526a6494e896913df72d486ca14abe9fe3
